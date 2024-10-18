@@ -8,5 +8,5 @@ Our clients requested that we provide the gross merchandise value for merchandis
 Additionally, I provided research to shed light on the profitability of different content categories (topic) and forms (video structure).
 
 The python scripts I used to achieve this are in the Code folder and datasets (updated daily) are available [here] 
- (https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset). (Some of the libraries used may be deprecated) 
+(https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset). (Some of the libraries used may be deprecated) 
 
